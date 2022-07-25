@@ -1,4 +1,4 @@
-// tsc 4.classes.ts && node 4.classes.js
+// tsc 5.classes.ts && node 5.classes.js
 
 // Example 1
 class TypeScript {
