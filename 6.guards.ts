@@ -35,4 +35,4 @@ function setAlertType(type: AlertType) {
 }
 
 setAlertType('success')
-setAlertType('incorrect')
+// setAlertType('incorrect')
