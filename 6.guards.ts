@@ -1,4 +1,5 @@
 // tsc 6.guards.ts && node 6.guards.js
+
 function variants(x: string | number){
     if(typeof x === 'number'){
         return x.toFixed(2)
