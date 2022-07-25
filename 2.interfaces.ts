@@ -1,4 +1,4 @@
-// tsc 1.types.ts && node 1.types.js
+// tsc 2.interfaces.ts && node 2.interfaces.js
 
 // Example 1 - Interface
 interface People {
